@@ -1,6 +1,6 @@
 <h1>Virtual Private Network</h1>
 <h2>Description</h2>
-Project consists of changing an IP address to a different location using VM, remote desktop and Proton VPN.
+Project consists of changing an IP address to a different location using VM, Remote Desktop and Proton VPN.
 <h2>Languages and Utilities Used</h2>
 
 - <b>Azure</b>
@@ -22,6 +22,10 @@ Project consists of changing an IP address to a different location using VM, rem
 - <b>Log into VM in Remote Desktop using public IP address from VM
 - <b>Go to https://whatismyipaddress.com and write down new IPv4 address and city</b> 
 - <b>Go to https://protonvpn.com/. Create an account (shoose free in the options)and download.  
-- <b> Choose country to access VPM
+- <b>Choose country to access vpn
+- <b> Go to google.com or another website to see the language it is now written in
 <p>
 <img src="https://i.imgur.com/wYAdVec.png" height="80%" width="80% alt="vpn"/>
+
+<h2>End</h2>
+*Please make sure to delete resource groups in Azure when finished.
