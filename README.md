@@ -15,7 +15,8 @@ Project consists of changing an IP address to a different location using VM, rem
 <p align="left">
 
 - <b>Go to https://whatismyipaddress.com and write down the IPv4 address and city<b>
-- <b>Create a Virtual Machine resource<b>
-- <b>Leave resource blank and choose a region different from yours <b>
+- <b>Create a Virtual Machine resource.<b>
+- <b>*Leave Resource Group blank and choose a Region different from yours<b>
 <p>
 <img src="https://i.imgur.com/fF5CWDB.png" height="80%" width="80% alt="vpn"/>
+<img src="https://i.imgur.com/gTp99kb.png" height="80%" width="80% alt="vpn"/> 
