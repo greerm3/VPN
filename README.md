@@ -15,8 +15,13 @@ Project consists of changing an IP address to a different location using VM, rem
 <p align="left">
 
 - <b>Go to https://whatismyipaddress.com and write down the IPv4 address and city<b>
-- <b>Create a Virtual Machine resource.<b>
-- <b>*Leave Resource Group blank and choose a Region different from yours<b>
+- <b>Create a Virtual Machine resource. *Leave Resource Group blank and choose a Region different from yours<b>
 <p>
 <img src="https://i.imgur.com/fF5CWDB.png" height="80%" width="80% alt="vpn"/>
-<img src="https://i.imgur.com/gTp99kb.png" height="80%" width="80% alt="vpn"/> 
+
+- <b>Log into VM in Remote Desktop using public IP address from VM
+- <b>Go to https://whatismyipaddress.com and write down new IPv4 address and city</b> 
+- <b>Go to https://protonvpn.com/. Create an account (shoose free in the options)and download.  
+- <b> Choose country to access VPM
+<p>
+<img src="https://i.imgur.com/wYAdVec.png" height="80%" width="80% alt="vpn"/>
