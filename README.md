@@ -15,17 +15,22 @@ To change an IP address to a different location around the world using a Virtual
 <p align="left">
 
 - <b>Go to https://whatismyipaddress.com and write down the IPv4 address and city<b>
-- <b>Create a Virtual Machine resource. *Leave Resource Group blank and choose a Region different from yours<b>
+- <b>Create a Virtual Machine resource. *Leave Resource Group blank and choose a Region different from your own <b>
 <p>
 <img src="https://i.imgur.com/fF5CWDB.png" height="80%" width="80% alt="vpn"/>
 
 - <b>Log into VM in Remote Desktop using public IP address from VM
-- <b>Go to https://whatismyipaddress.com and write down new IPv4 address and city</b> 
-- <b>Go to https://protonvpn.com/. Create an account (shoose free in the options)and download.  
-- <b>Choose country to access vpn
-- <b> Go to google.com or another website to see the language it is now written in
+- <b>Go to https://whatismyipaddress.com and write down new IPv4 address and city</b>
+- <b>Go to https://protonvpn.com/
+- <b>Create free account and download
+<p>
+<img src="https://i.imgur.com/QYvkAaK.png" height="80%" width="80% alt="vpn"/>
+
+- <b>Sign in and choose country to access vpn
 <p>
 <img src="https://i.imgur.com/wYAdVec.png" height="80%" width="80% alt="vpn"/>
+
+- <b>Go to google.com or another website to see it in the language from the country you chose
 
 <h2>End</h2>
 *Please make sure to delete resource groups in Azure when finished.
