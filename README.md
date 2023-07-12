@@ -1,9 +1,9 @@
 <h1>Virtual Private Network</h1>
 <h2>Description</h2>
-Project consists of changing an IP address to a different location using VM, Remote Desktop and Proton VPN.
+To change an IP address to a different location around the world using a Virtual Machine, Remote Desktop and Proton VPN.
 <h2>Languages and Utilities Used</h2>
 
-- <b>Azure</b>
+- <b>Azure Virtual Machine</b>
 - <b>Remote Desktop</b>
 - <b> Proton VPN
 
