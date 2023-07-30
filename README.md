@@ -17,7 +17,7 @@ To change an IP address to a different location around the world using a Virtual
 - <b>Go to https://whatismyipaddress.com and write down the IPv4 address and city<b>
 - <b>Create a Virtual Machine resource. *Leave Resource Group blank and choose a Region different from where you live<b>
 <p>
-<img src="https://i.imgur.com/fF5CWDB.png" height="80%" width="80% alt="vpn"/>
+<img src="https://imgur.com/ono7yvJ.png" height="80%" width="80% alt="vpn"/>
 
 - <b>Log into Remote Desktop using public IP address from Virtual Machine<b>
 - <b>Go to http://whatismyipaddress.com and write down new IPv4 address and city<b>
