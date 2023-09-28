@@ -10,9 +10,10 @@ To change an IP address to a different location around the world using a Virtual
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Azure<b>
 
 <h2>Setup:</h2>
-< palign="left">
+
 
 - <b>Go to https://whatismyipaddress.com and write down the IPv4 address and city<b>
 - <b>Create a Virtual Machine resource. *Leave Resource Group blank and choose a Region different from where you live<b>
