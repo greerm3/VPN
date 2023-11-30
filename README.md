@@ -1,6 +1,6 @@
 <h1>Virtual Private Network</h1>
 <h2>Description</h2>
-To change an IP address to a different location around the world using a Virtual Machine, Remote Desktop and Proton VPN.
+Using a Virtual Machine, Remote Desktop, and Proton VPN allows you to relocate an IP address to various global locations.
 <h2>Languages and Utilities Used</h2>
 
 - <b>Azure Virtual Machine<b>
